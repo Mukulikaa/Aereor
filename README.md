@@ -1,2 +1,3 @@
-# Fetnlips
-Movie Recommender Web App (Python Mini Project)
+# Aereor
+A think tank web app to fight climate change.
+
